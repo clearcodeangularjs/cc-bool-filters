@@ -2,7 +2,7 @@
   "name": "boolean-filter",
   "description": "Boolean filter  - replaces true and false values with other data",
   "authors": [
-  "ClearCode (http://clearcode.cc)",
+  "ClearCode (http://clearcode.cc)"
 ],
   "version": "1.0.0",
   "main": "booleanfilter.js",
