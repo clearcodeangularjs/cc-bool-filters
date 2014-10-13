@@ -21,7 +21,7 @@
 */
 'use strict';
 
-angular.module('cc.bool.filters').filter('booleanFilter', function() {
+angular.module('cc.bool.filters', []).filter('booleanFilter', function() {
     return function(input, replace_true, replace_false) {
         return input?replace_true:replace_false;
     };
