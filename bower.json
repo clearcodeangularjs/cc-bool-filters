@@ -4,6 +4,7 @@
   "authors": [
   "ClearCode (http://clearcode.cc)"
 ],
+"homepage": "http://plnkr.co/edit/iCQSJYkObwWyjg90snlE",
   "version": "1.0.0",
   "main": "booleanfilter.js",
   "ignore": [
