@@ -5,7 +5,7 @@ Filters than changes boolean true / false and undefined values.
 
 Installation
 --------------
-TODO
+```  bower install clearcodeangularjs/cc-bool-filters --save ```
 
 
 Usage
