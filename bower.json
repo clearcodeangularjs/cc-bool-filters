@@ -1,12 +1,12 @@
 {
-	"name": "boolean-filter",
+	"name": "cc-bool-filters",
 	"description": "Boolean filter  - replaces true and false values with other data",
 	"authors": [
 		"ClearCode (http://clearcode.cc)"
 	],
 	"homepage": "http://plnkr.co/edit/iCQSJYkObwWyjg90snlE",
 	"version": "1.0.0",
-	"main": "booleanfilter.js",
+	"main": "script/filters/booleanfilter.js",
 	"ignore": [
 		"**/.*",
 		"node_modules",
